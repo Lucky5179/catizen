@@ -2499,7 +2499,7 @@
             id: 4,
             title: "Email",
             img: (0, s.wD)("social_email.png"),
-            href: "https://dextools.io/",
+            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x8123a1651cb89cf45cd98b683a6ec1f34fe402ec?t=1740040239960",
           },
         ];
         return (0, r.jsx)("div", {
