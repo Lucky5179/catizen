@@ -457,7 +457,7 @@
                   (0, r.jsxs)("a", {
                     className:
                       "w-full flex items-center justify-center gap-2.5 r-frame-3-btn-bg cursor-pointer   h-12.5 rounded-2xl   ",
-                    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon&chain=mainnet",
+                    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x96085475215a18Df64c9A25d522f440DF6d2f6bC&chain=mainnet",
                     target: "_blank",
                     children: [
                       (0, r.jsx)("span", {
@@ -731,7 +731,7 @@
               (0, r.jsx)("div", {
                 className: "w-full text-white   mt-18   ",
                 children: (0, r.jsx)("a", {
-                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon&chain=mainnet",
+                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x96085475215a18Df64c9A25d522f440DF6d2f6bC&chain=mainnet",
                   target: "_blank",
                   rel: "noreferrer",
                   className:
@@ -1120,7 +1120,7 @@
                     poster: ""
                       .concat(n.Z.frameUrl)
                       .concat(a.folder, "/Catizen_2k_270.jpg"),
-                    src: "".concat(n.Z.frameUrl, "video/Catizen-Scene-02.mp4"),
+                    src: "".concat(n.Z.frameUrl, "/1.mp4"),
                   }
                 : 4 === l.frameCurrentIndex
                 ? {
@@ -1526,7 +1526,7 @@
                   (0, r.jsxs)("a", {
                     className:
                       "w-full flex items-center justify-center gap-1.5 r-frame-3-btn-bg cursor-pointer   h-10 rounded-lg   ",
-                    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon&chain=mainnet",
+                    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x96085475215a18Df64c9A25d522f440DF6d2f6bC&chain=mainnet",
                     target: "_blank",
                     children: [
                       (0, r.jsx)("span", {
@@ -1797,7 +1797,7 @@
               (0, r.jsx)("div", {
                 className: "flex-none w-full text-white",
                 children: (0, r.jsx)("a", {
-                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon&chain=mainnet",
+                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x96085475215a18Df64c9A25d522f440DF6d2f6bC&chain=mainnet",
                   target: "_blank",
                   rel: "noreferrer",
                   className:
@@ -2147,7 +2147,7 @@
                     poster: ""
                       .concat(n.Z.frameUrl)
                       .concat(a.folder, "/Catizen_2k_270.jpg"),
-                    src: "".concat(n.Z.frameUrl, "video/Catizen-Scene-02.mp4"),
+                    src: "".concat(n.Z.frameUrl, "/1.mp4"),
                   }
                 : 4 === l.frameCurrentIndex
                 ? {
@@ -2493,7 +2493,7 @@
             id: 3,
             title: "Medium",
             img: (0, s.wD)("social_medium.png"),
-            href: "https://dexscreener.com/ethereum/0xcomingsoon",
+            href: "https://dexscreener.com/ethereum/0x96085475215a18Df64c9A25d522f440DF6d2f6bC",
           },
           {
             id: 4,

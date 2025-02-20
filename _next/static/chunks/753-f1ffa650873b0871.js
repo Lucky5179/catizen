@@ -261,7 +261,7 @@
                     (0, p.jsxs)("a", {
                       className:
                         "w-full flex items-center justify-center gap-2.5 r-header-btn-bg cursor-pointer   h-10 rounded-2xl pr-6 pl-6 md:rounded-lg lg:rounded-[10px]   ",
-                      href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon&chain=mainnet",
+                      href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x96085475215a18Df64c9A25d522f440DF6d2f6bC&chain=mainnet",
                       target: "_blank",
                       children: [
                         (0, p.jsx)("span", {
